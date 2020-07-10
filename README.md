@@ -10,7 +10,7 @@
 
 My name is Daniel Cunha and I'm a software developer passionate about JavaScript ecosystem.
 
-- :computer: I’m currently working with Java, Kotlin and Spring at [Rede de Farmácias São João][saojoao]
+- :rocket: I’m currently working with Java, Kotlin and Spring at [Rede de Farmácias São João][saojoao]
 - :seedling: In the moment I'm studying TypeScript, React and other JavaScript technologies
 - :zap: Node.js, React, Flutter, Spring and ASP.NET Core
 
