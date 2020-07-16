@@ -15,5 +15,7 @@ My name is Daniel Cunha and I'm a software developer passionate about JavaScript
 - :computer: Currently I'm working on a personal [Recipe Book application][recipebook] developed with Node.js, React and Flutter
 - :zap: Node.js, React, Flutter, Spring and ASP.NET Core
 
+![Daniel Cunha GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielccunha)
+
 [saojoao]: https://www.saojoaofarmacias.com.br/
 [recipebook]: https://github.com/danielccunha/recipe-book
