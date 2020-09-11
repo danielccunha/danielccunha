@@ -15,8 +15,8 @@ My name is Daniel Cunha and I'm a software developer passionate about JavaScript
 - :zap: Node.js, React, Flutter, Spring and ASP.NET Core
 
 <a href="https://github.com/danielccunha">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielccunha&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielccunha&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielccunha&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielccunha&layout=compact&theme=dark" />
 </a>
 
 [saojoao]: https://www.saojoaofarmacias.com.br/
