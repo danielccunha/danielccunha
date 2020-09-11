@@ -10,14 +10,9 @@
 
 My name is Daniel Cunha and I'm a software developer passionate about JavaScript ecosystem.
 
-- :rocket: I’m currently working with Java, Kotlin and Spring at [Rede de Farmácias São João][saojoao]
-- :seedling: In the moment I'm studying TypeScript, React and other JavaScript technologies
-- :zap: Node.js, React, Flutter, Spring and ASP.NET Core
-
-<a href="https://github.com/danielccunha">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielccunha&show_icons=true&theme=dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielccunha&layout=compact&theme=dark" />
-</a>
+- :rocket: I’m currently working with JavaScript, Java and Kotlin at [Rede de Farmácias São João][saojoao]
+- :seedling: I'm studying TypeScript, React and other JavaScript technologies
+- :computer: I'm working on side projects for retail companies using React and Node
+- :mailbox: Ping me about **finance**, **retail**, **development**, **design patterns**
 
 [saojoao]: https://www.saojoaofarmacias.com.br/
-[recipebook]: https://github.com/danielccunha/recipe-book
