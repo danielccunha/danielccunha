@@ -10,9 +10,9 @@
 
 My name is Daniel Cunha and I'm a software developer passionate about JavaScript ecosystem.
 
-- :rocket: I’m currently working with JavaScript, Java and Kotlin at [Rede de Farmácias São João][saojoao]
-- :seedling: I'm studying TypeScript, React and other JavaScript technologies
+- :rocket: I’m currently working with Node.js, Flutter and Jitterbit at [NDM Global][company]
+- :seedling: I'm studying TypeScript, TDD, SOLID and other design patterns
 - :computer: I'm working on side projects for retail companies using React and Node
 - :mailbox: Ping me about **finance**, **retail**, **development**, **design patterns**
 
-[saojoao]: https://www.saojoaofarmacias.com.br/
+[company]: https://www.ndmglobal.com/
