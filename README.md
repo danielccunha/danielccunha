@@ -4,8 +4,8 @@ I'm a software engineer from Brazil working at [NDM Global][company]. I'm passio
 
 - :rocket: I’m currently working with Node.js, Flutter and Jitterbit
 - :seedling: I'm studying Clean Architecture, TDD and other design patterns
-- :computer: I'm working on side projects for universities and restaurants (not related)
-- :mailbox: Ping me about **investments**, **software development** and **design patterns**
+- :computer: I'm working on side projects for universities
+- :mailbox: Ping me about **investments**, **software development**, **design patterns** or anything else
 
 Would you like to find me?
 
