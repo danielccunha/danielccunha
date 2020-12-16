@@ -3,7 +3,7 @@
 I'm a software engineer from Brazil working at [NDM Global][company]. I'm passionate about software development and I'm always studying new technologies or techniques to create awesome applications.
 
 - :rocket: I’m currently working with Node.js, Flutter and Jitterbit
-- :seedling: I'm studying Clean Architecture, TDD and other design patterns
+- :seedling: I'm studying Python for professional reasons
 - :computer: I'm working on side projects for universities
 - :mailbox: Ping me about **investments**, **software development**, **design patterns** or anything else
 
